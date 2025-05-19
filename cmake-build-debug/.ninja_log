@@ -1,0 +1,19 @@
+# ninja log v5
+47	1862	7229222654232245	CMakeFiles/Task_2v2_1.dir/Book.cpp.obj	395ed971b7c9312a
+4137	6133	7229222696839512	CMakeFiles/Task_2v2_1.dir/LibraryCustomer.cpp.obj	790e81af0a8cbf4d
+6134	8399	7229222719292940	CMakeFiles/Task_2v2_1.dir/Librarian.cpp.obj	356faaf6c13a9dae
+3088	4136	7229222677125458	CMakeFiles/Task_2v2_1.dir/DigitalMedia.cpp.obj	27f03df7f6b07e08
+1863	3088	7229222666640044	CMakeFiles/Task_2v2_1.dir/ItemsInLibrary.cpp.obj	c2cce6a72290cbc3
+11291	13276	7229222768200655	CMakeFiles/Task_2v2_1.dir/Journal.cpp.obj	e1190ab110fe0274
+8399	9585	7229222731778236	CMakeFiles/Task_2v2_1.dir/Magazine.cpp.obj	ee2d89169ad8107c
+9585	11291	7229222746259473	CMakeFiles/Task_2v2_1.dir/main.cpp.obj	683e872f8c9d92be
+13276	15202	7229222785881275	Task_2v2_1.exe	d2f3ca4cfc341ba1
+8	9756	7235337591215877	CMakeFiles/Task_2v2_1.dir/Book.cpp.obj	966f40ae9425d642
+9762	27706	7235337712127869	CMakeFiles/Task_2v2_1.dir/ItemsInLibrary.cpp.obj	ed8d6631203a89b4
+27711	29158	7235337785266849	CMakeFiles/Task_2v2_1.dir/LibraryCustomer.cpp.obj	f80a3ebb78115fbe
+29159	29988	7235337793462840	CMakeFiles/Task_2v2_1.dir/DigitalMedia.cpp.obj	e22d15a5aa1a5626
+29989	32090	7235337813466597	CMakeFiles/Task_2v2_1.dir/Librarian.cpp.obj	549e7c0421d84acf
+32091	33415	7235337827031284	CMakeFiles/Task_2v2_1.dir/Magazine.cpp.obj	7a72a6df0f648886
+33462	35276	7235337846063257	CMakeFiles/Task_2v2_1.dir/Journal.cpp.obj	c1d92d763418e491
+35277	37403	7235337865852257	CMakeFiles/Task_2v2_1.dir/main.cpp.obj	6c86174df107afef
+37403	43744	7235337930281727	Task_2v2_1.exe	d2f3ca4cfc341ba1
